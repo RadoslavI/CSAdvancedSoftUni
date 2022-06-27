@@ -1,0 +1,16 @@
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\6. Reverse And Exclude\bin\Debug\net5.0\6. Reverse And Exclude.exe
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\6. Reverse And Exclude\bin\Debug\net5.0\6. Reverse And Exclude.deps.json
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\6. Reverse And Exclude\bin\Debug\net5.0\6. Reverse And Exclude.runtimeconfig.json
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\6. Reverse And Exclude\bin\Debug\net5.0\6. Reverse And Exclude.runtimeconfig.dev.json
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\6. Reverse And Exclude\bin\Debug\net5.0\6. Reverse And Exclude.dll
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\6. Reverse And Exclude\bin\Debug\net5.0\6. Reverse And Exclude.pdb
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\6. Reverse And Exclude\obj\Debug\net5.0\6. Reverse And Exclude.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\6. Reverse And Exclude\obj\Debug\net5.0\6. Reverse And Exclude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\6. Reverse And Exclude\obj\Debug\net5.0\6. Reverse And Exclude.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\6. Reverse And Exclude\obj\Debug\net5.0\6. Reverse And Exclude.AssemblyInfo.cs
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\6. Reverse And Exclude\obj\Debug\net5.0\6. Reverse And Exclude.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\6. Reverse And Exclude\obj\Debug\net5.0\6. Reverse And Exclude.dll
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\6. Reverse And Exclude\obj\Debug\net5.0\refint\6. Reverse And Exclude.dll
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\6. Reverse And Exclude\obj\Debug\net5.0\6. Reverse And Exclude.pdb
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\6. Reverse And Exclude\obj\Debug\net5.0\6. Reverse And Exclude.genruntimeconfig.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\6. Reverse And Exclude\obj\Debug\net5.0\ref\6. Reverse And Exclude.dll

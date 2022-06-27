@@ -1,0 +1,16 @@
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\1-Action-Point\bin\Debug\net5.0\ActionPoint.exe
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\1-Action-Point\bin\Debug\net5.0\ActionPoint.deps.json
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\1-Action-Point\bin\Debug\net5.0\ActionPoint.runtimeconfig.json
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\1-Action-Point\bin\Debug\net5.0\ActionPoint.runtimeconfig.dev.json
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\1-Action-Point\bin\Debug\net5.0\ActionPoint.dll
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\1-Action-Point\bin\Debug\net5.0\ActionPoint.pdb
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\1-Action-Point\obj\Debug\net5.0\ActionPoint.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\1-Action-Point\obj\Debug\net5.0\ActionPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\1-Action-Point\obj\Debug\net5.0\ActionPoint.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\1-Action-Point\obj\Debug\net5.0\ActionPoint.AssemblyInfo.cs
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\1-Action-Point\obj\Debug\net5.0\ActionPoint.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\1-Action-Point\obj\Debug\net5.0\ActionPoint.dll
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\1-Action-Point\obj\Debug\net5.0\refint\ActionPoint.dll
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\1-Action-Point\obj\Debug\net5.0\ActionPoint.pdb
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\1-Action-Point\obj\Debug\net5.0\ActionPoint.genruntimeconfig.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\1-Action-Point\obj\Debug\net5.0\ref\ActionPoint.dll

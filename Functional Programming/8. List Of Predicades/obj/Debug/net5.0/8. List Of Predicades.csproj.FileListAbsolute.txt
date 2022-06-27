@@ -1,0 +1,16 @@
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\8. List Of Predicades\bin\Debug\net5.0\8. List Of Predicades.exe
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\8. List Of Predicades\bin\Debug\net5.0\8. List Of Predicades.deps.json
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\8. List Of Predicades\bin\Debug\net5.0\8. List Of Predicades.runtimeconfig.json
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\8. List Of Predicades\bin\Debug\net5.0\8. List Of Predicades.runtimeconfig.dev.json
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\8. List Of Predicades\bin\Debug\net5.0\8. List Of Predicades.dll
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\8. List Of Predicades\bin\Debug\net5.0\8. List Of Predicades.pdb
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\8. List Of Predicades\obj\Debug\net5.0\8. List Of Predicades.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\8. List Of Predicades\obj\Debug\net5.0\8. List Of Predicades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\8. List Of Predicades\obj\Debug\net5.0\8. List Of Predicades.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\8. List Of Predicades\obj\Debug\net5.0\8. List Of Predicades.AssemblyInfo.cs
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\8. List Of Predicades\obj\Debug\net5.0\8. List Of Predicades.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\8. List Of Predicades\obj\Debug\net5.0\8. List Of Predicades.dll
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\8. List Of Predicades\obj\Debug\net5.0\refint\8. List Of Predicades.dll
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\8. List Of Predicades\obj\Debug\net5.0\8. List Of Predicades.pdb
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\8. List Of Predicades\obj\Debug\net5.0\8. List Of Predicades.genruntimeconfig.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\8. List Of Predicades\obj\Debug\net5.0\ref\8. List Of Predicades.dll

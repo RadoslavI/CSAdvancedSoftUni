@@ -1,0 +1,16 @@
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\2 - Knights-Of-Honor\bin\Debug\net5.0\2 - Knights-Of-Honor.exe
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\2 - Knights-Of-Honor\bin\Debug\net5.0\2 - Knights-Of-Honor.deps.json
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\2 - Knights-Of-Honor\bin\Debug\net5.0\2 - Knights-Of-Honor.runtimeconfig.json
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\2 - Knights-Of-Honor\bin\Debug\net5.0\2 - Knights-Of-Honor.runtimeconfig.dev.json
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\2 - Knights-Of-Honor\bin\Debug\net5.0\2 - Knights-Of-Honor.dll
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\2 - Knights-Of-Honor\bin\Debug\net5.0\2 - Knights-Of-Honor.pdb
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\2 - Knights-Of-Honor\obj\Debug\net5.0\2 - Knights-Of-Honor.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\2 - Knights-Of-Honor\obj\Debug\net5.0\2 - Knights-Of-Honor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\2 - Knights-Of-Honor\obj\Debug\net5.0\2 - Knights-Of-Honor.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\2 - Knights-Of-Honor\obj\Debug\net5.0\2 - Knights-Of-Honor.AssemblyInfo.cs
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\2 - Knights-Of-Honor\obj\Debug\net5.0\2 - Knights-Of-Honor.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\2 - Knights-Of-Honor\obj\Debug\net5.0\2 - Knights-Of-Honor.dll
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\2 - Knights-Of-Honor\obj\Debug\net5.0\refint\2 - Knights-Of-Honor.dll
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\2 - Knights-Of-Honor\obj\Debug\net5.0\2 - Knights-Of-Honor.pdb
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\2 - Knights-Of-Honor\obj\Debug\net5.0\2 - Knights-Of-Honor.genruntimeconfig.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\2 - Knights-Of-Honor\obj\Debug\net5.0\ref\2 - Knights-Of-Honor.dll

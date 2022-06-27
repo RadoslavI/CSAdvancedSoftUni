@@ -1,0 +1,16 @@
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\3. Custom Min Function\bin\Debug\net5.0\3. Custom Min Function.exe
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\3. Custom Min Function\bin\Debug\net5.0\3. Custom Min Function.deps.json
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\3. Custom Min Function\bin\Debug\net5.0\3. Custom Min Function.runtimeconfig.json
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\3. Custom Min Function\bin\Debug\net5.0\3. Custom Min Function.runtimeconfig.dev.json
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\3. Custom Min Function\bin\Debug\net5.0\3. Custom Min Function.dll
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\3. Custom Min Function\bin\Debug\net5.0\3. Custom Min Function.pdb
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\3. Custom Min Function\obj\Debug\net5.0\3. Custom Min Function.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\3. Custom Min Function\obj\Debug\net5.0\3. Custom Min Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\3. Custom Min Function\obj\Debug\net5.0\3. Custom Min Function.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\3. Custom Min Function\obj\Debug\net5.0\3. Custom Min Function.AssemblyInfo.cs
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\3. Custom Min Function\obj\Debug\net5.0\3. Custom Min Function.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\3. Custom Min Function\obj\Debug\net5.0\3. Custom Min Function.dll
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\3. Custom Min Function\obj\Debug\net5.0\refint\3. Custom Min Function.dll
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\3. Custom Min Function\obj\Debug\net5.0\3. Custom Min Function.pdb
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\3. Custom Min Function\obj\Debug\net5.0\3. Custom Min Function.genruntimeconfig.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\3. Custom Min Function\obj\Debug\net5.0\ref\3. Custom Min Function.dll

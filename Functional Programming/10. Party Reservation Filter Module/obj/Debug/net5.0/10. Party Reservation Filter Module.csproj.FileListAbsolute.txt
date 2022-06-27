@@ -1,0 +1,16 @@
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\10. Party Reservation Filter Module\bin\Debug\net5.0\10. Party Reservation Filter Module.exe
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\10. Party Reservation Filter Module\bin\Debug\net5.0\10. Party Reservation Filter Module.deps.json
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\10. Party Reservation Filter Module\bin\Debug\net5.0\10. Party Reservation Filter Module.runtimeconfig.json
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\10. Party Reservation Filter Module\bin\Debug\net5.0\10. Party Reservation Filter Module.runtimeconfig.dev.json
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\10. Party Reservation Filter Module\bin\Debug\net5.0\10. Party Reservation Filter Module.dll
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\10. Party Reservation Filter Module\bin\Debug\net5.0\10. Party Reservation Filter Module.pdb
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\10. Party Reservation Filter Module\obj\Debug\net5.0\10. Party Reservation Filter Module.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\10. Party Reservation Filter Module\obj\Debug\net5.0\10. Party Reservation Filter Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\10. Party Reservation Filter Module\obj\Debug\net5.0\10. Party Reservation Filter Module.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\10. Party Reservation Filter Module\obj\Debug\net5.0\10. Party Reservation Filter Module.AssemblyInfo.cs
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\10. Party Reservation Filter Module\obj\Debug\net5.0\10. Party Reservation Filter Module.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\10. Party Reservation Filter Module\obj\Debug\net5.0\10. Party Reservation Filter Module.dll
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\10. Party Reservation Filter Module\obj\Debug\net5.0\refint\10. Party Reservation Filter Module.dll
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\10. Party Reservation Filter Module\obj\Debug\net5.0\10. Party Reservation Filter Module.pdb
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\10. Party Reservation Filter Module\obj\Debug\net5.0\10. Party Reservation Filter Module.genruntimeconfig.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\10. Party Reservation Filter Module\obj\Debug\net5.0\ref\10. Party Reservation Filter Module.dll

@@ -1,0 +1,16 @@
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\9. Predicate Party!\bin\Debug\net5.0\9. Predicate Party!.exe
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\9. Predicate Party!\bin\Debug\net5.0\9. Predicate Party!.deps.json
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\9. Predicate Party!\bin\Debug\net5.0\9. Predicate Party!.runtimeconfig.json
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\9. Predicate Party!\bin\Debug\net5.0\9. Predicate Party!.runtimeconfig.dev.json
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\9. Predicate Party!\bin\Debug\net5.0\9. Predicate Party!.dll
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\9. Predicate Party!\bin\Debug\net5.0\9. Predicate Party!.pdb
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\9. Predicate Party!\obj\Debug\net5.0\9. Predicate Party!.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\9. Predicate Party!\obj\Debug\net5.0\9. Predicate Party!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\9. Predicate Party!\obj\Debug\net5.0\9. Predicate Party!.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\9. Predicate Party!\obj\Debug\net5.0\9. Predicate Party!.AssemblyInfo.cs
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\9. Predicate Party!\obj\Debug\net5.0\9. Predicate Party!.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\9. Predicate Party!\obj\Debug\net5.0\9. Predicate Party!.dll
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\9. Predicate Party!\obj\Debug\net5.0\refint\9. Predicate Party!.dll
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\9. Predicate Party!\obj\Debug\net5.0\9. Predicate Party!.pdb
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\9. Predicate Party!\obj\Debug\net5.0\9. Predicate Party!.genruntimeconfig.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\9. Predicate Party!\obj\Debug\net5.0\ref\9. Predicate Party!.dll

@@ -1,0 +1,16 @@
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\Demo\bin\Debug\net5.0\Demo.exe
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\Demo\bin\Debug\net5.0\Demo.deps.json
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\Demo\bin\Debug\net5.0\Demo.runtimeconfig.json
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\Demo\bin\Debug\net5.0\Demo.runtimeconfig.dev.json
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\Demo\bin\Debug\net5.0\Demo.dll
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\Demo\bin\Debug\net5.0\Demo.pdb
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\Demo\obj\Debug\net5.0\Demo.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\Demo\obj\Debug\net5.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\Demo\obj\Debug\net5.0\Demo.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\Demo\obj\Debug\net5.0\Demo.AssemblyInfo.cs
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\Demo\obj\Debug\net5.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\Demo\obj\Debug\net5.0\Demo.dll
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\Demo\obj\Debug\net5.0\refint\Demo.dll
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\Demo\obj\Debug\net5.0\Demo.pdb
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\Demo\obj\Debug\net5.0\Demo.genruntimeconfig.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\Demo\obj\Debug\net5.0\ref\Demo.dll

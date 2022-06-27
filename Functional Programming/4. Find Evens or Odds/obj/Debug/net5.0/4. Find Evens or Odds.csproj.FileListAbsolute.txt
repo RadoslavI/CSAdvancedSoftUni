@@ -1,0 +1,16 @@
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\4. Find Evens or Odds\bin\Debug\net5.0\4. Find Evens or Odds.exe
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\4. Find Evens or Odds\bin\Debug\net5.0\4. Find Evens or Odds.deps.json
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\4. Find Evens or Odds\bin\Debug\net5.0\4. Find Evens or Odds.runtimeconfig.json
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\4. Find Evens or Odds\bin\Debug\net5.0\4. Find Evens or Odds.runtimeconfig.dev.json
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\4. Find Evens or Odds\bin\Debug\net5.0\4. Find Evens or Odds.dll
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\4. Find Evens or Odds\bin\Debug\net5.0\4. Find Evens or Odds.pdb
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.AssemblyInfo.cs
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.dll
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\4. Find Evens or Odds\obj\Debug\net5.0\refint\4. Find Evens or Odds.dll
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.pdb
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\4. Find Evens or Odds\obj\Debug\net5.0\4. Find Evens or Odds.genruntimeconfig.cache
+C:\Users\saske\source\repos\ExerciseFunctionalProgramming\4. Find Evens or Odds\obj\Debug\net5.0\ref\4. Find Evens or Odds.dll
