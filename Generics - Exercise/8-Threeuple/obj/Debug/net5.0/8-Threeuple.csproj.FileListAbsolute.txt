@@ -1,0 +1,16 @@
+C:\Users\saske\source\repos\Generics-Exercise\8-Threeuple\bin\Debug\net5.0\8-Threeuple.exe
+C:\Users\saske\source\repos\Generics-Exercise\8-Threeuple\bin\Debug\net5.0\8-Threeuple.deps.json
+C:\Users\saske\source\repos\Generics-Exercise\8-Threeuple\bin\Debug\net5.0\8-Threeuple.runtimeconfig.json
+C:\Users\saske\source\repos\Generics-Exercise\8-Threeuple\bin\Debug\net5.0\8-Threeuple.runtimeconfig.dev.json
+C:\Users\saske\source\repos\Generics-Exercise\8-Threeuple\bin\Debug\net5.0\8-Threeuple.dll
+C:\Users\saske\source\repos\Generics-Exercise\8-Threeuple\bin\Debug\net5.0\8-Threeuple.pdb
+C:\Users\saske\source\repos\Generics-Exercise\8-Threeuple\obj\Debug\net5.0\8-Threeuple.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\Generics-Exercise\8-Threeuple\obj\Debug\net5.0\8-Threeuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\Generics-Exercise\8-Threeuple\obj\Debug\net5.0\8-Threeuple.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\Generics-Exercise\8-Threeuple\obj\Debug\net5.0\8-Threeuple.AssemblyInfo.cs
+C:\Users\saske\source\repos\Generics-Exercise\8-Threeuple\obj\Debug\net5.0\8-Threeuple.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\Generics-Exercise\8-Threeuple\obj\Debug\net5.0\8-Threeuple.dll
+C:\Users\saske\source\repos\Generics-Exercise\8-Threeuple\obj\Debug\net5.0\refint\8-Threeuple.dll
+C:\Users\saske\source\repos\Generics-Exercise\8-Threeuple\obj\Debug\net5.0\8-Threeuple.pdb
+C:\Users\saske\source\repos\Generics-Exercise\8-Threeuple\obj\Debug\net5.0\8-Threeuple.genruntimeconfig.cache
+C:\Users\saske\source\repos\Generics-Exercise\8-Threeuple\obj\Debug\net5.0\ref\8-Threeuple.dll

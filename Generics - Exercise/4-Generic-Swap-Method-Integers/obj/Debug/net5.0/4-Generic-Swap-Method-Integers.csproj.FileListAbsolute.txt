@@ -1,0 +1,16 @@
+C:\Users\saske\source\repos\Generics-Exercise\4-Generic-Swap-Method-Integers\bin\Debug\net5.0\4-Generic-Swap-Method-Integers.exe
+C:\Users\saske\source\repos\Generics-Exercise\4-Generic-Swap-Method-Integers\bin\Debug\net5.0\4-Generic-Swap-Method-Integers.deps.json
+C:\Users\saske\source\repos\Generics-Exercise\4-Generic-Swap-Method-Integers\bin\Debug\net5.0\4-Generic-Swap-Method-Integers.runtimeconfig.json
+C:\Users\saske\source\repos\Generics-Exercise\4-Generic-Swap-Method-Integers\bin\Debug\net5.0\4-Generic-Swap-Method-Integers.runtimeconfig.dev.json
+C:\Users\saske\source\repos\Generics-Exercise\4-Generic-Swap-Method-Integers\bin\Debug\net5.0\4-Generic-Swap-Method-Integers.dll
+C:\Users\saske\source\repos\Generics-Exercise\4-Generic-Swap-Method-Integers\bin\Debug\net5.0\4-Generic-Swap-Method-Integers.pdb
+C:\Users\saske\source\repos\Generics-Exercise\4-Generic-Swap-Method-Integers\obj\Debug\net5.0\4-Generic-Swap-Method-Integers.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\Generics-Exercise\4-Generic-Swap-Method-Integers\obj\Debug\net5.0\4-Generic-Swap-Method-Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\Generics-Exercise\4-Generic-Swap-Method-Integers\obj\Debug\net5.0\4-Generic-Swap-Method-Integers.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\Generics-Exercise\4-Generic-Swap-Method-Integers\obj\Debug\net5.0\4-Generic-Swap-Method-Integers.AssemblyInfo.cs
+C:\Users\saske\source\repos\Generics-Exercise\4-Generic-Swap-Method-Integers\obj\Debug\net5.0\4-Generic-Swap-Method-Integers.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\Generics-Exercise\4-Generic-Swap-Method-Integers\obj\Debug\net5.0\4-Generic-Swap-Method-Integers.dll
+C:\Users\saske\source\repos\Generics-Exercise\4-Generic-Swap-Method-Integers\obj\Debug\net5.0\refint\4-Generic-Swap-Method-Integers.dll
+C:\Users\saske\source\repos\Generics-Exercise\4-Generic-Swap-Method-Integers\obj\Debug\net5.0\4-Generic-Swap-Method-Integers.pdb
+C:\Users\saske\source\repos\Generics-Exercise\4-Generic-Swap-Method-Integers\obj\Debug\net5.0\4-Generic-Swap-Method-Integers.genruntimeconfig.cache
+C:\Users\saske\source\repos\Generics-Exercise\4-Generic-Swap-Method-Integers\obj\Debug\net5.0\ref\4-Generic-Swap-Method-Integers.dll

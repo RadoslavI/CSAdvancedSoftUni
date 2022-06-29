@@ -1,0 +1,16 @@
+C:\Users\saske\source\repos\Generics-Exercise\5-Generic-Count-Method-Strings\bin\Debug\net5.0\5-Generic-Count-Method-Strings.exe
+C:\Users\saske\source\repos\Generics-Exercise\5-Generic-Count-Method-Strings\bin\Debug\net5.0\5-Generic-Count-Method-Strings.deps.json
+C:\Users\saske\source\repos\Generics-Exercise\5-Generic-Count-Method-Strings\bin\Debug\net5.0\5-Generic-Count-Method-Strings.runtimeconfig.json
+C:\Users\saske\source\repos\Generics-Exercise\5-Generic-Count-Method-Strings\bin\Debug\net5.0\5-Generic-Count-Method-Strings.runtimeconfig.dev.json
+C:\Users\saske\source\repos\Generics-Exercise\5-Generic-Count-Method-Strings\bin\Debug\net5.0\5-Generic-Count-Method-Strings.dll
+C:\Users\saske\source\repos\Generics-Exercise\5-Generic-Count-Method-Strings\bin\Debug\net5.0\5-Generic-Count-Method-Strings.pdb
+C:\Users\saske\source\repos\Generics-Exercise\5-Generic-Count-Method-Strings\obj\Debug\net5.0\5-Generic-Count-Method-Strings.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\Generics-Exercise\5-Generic-Count-Method-Strings\obj\Debug\net5.0\5-Generic-Count-Method-Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\Generics-Exercise\5-Generic-Count-Method-Strings\obj\Debug\net5.0\5-Generic-Count-Method-Strings.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\Generics-Exercise\5-Generic-Count-Method-Strings\obj\Debug\net5.0\5-Generic-Count-Method-Strings.AssemblyInfo.cs
+C:\Users\saske\source\repos\Generics-Exercise\5-Generic-Count-Method-Strings\obj\Debug\net5.0\5-Generic-Count-Method-Strings.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\Generics-Exercise\5-Generic-Count-Method-Strings\obj\Debug\net5.0\5-Generic-Count-Method-Strings.dll
+C:\Users\saske\source\repos\Generics-Exercise\5-Generic-Count-Method-Strings\obj\Debug\net5.0\refint\5-Generic-Count-Method-Strings.dll
+C:\Users\saske\source\repos\Generics-Exercise\5-Generic-Count-Method-Strings\obj\Debug\net5.0\5-Generic-Count-Method-Strings.pdb
+C:\Users\saske\source\repos\Generics-Exercise\5-Generic-Count-Method-Strings\obj\Debug\net5.0\5-Generic-Count-Method-Strings.genruntimeconfig.cache
+C:\Users\saske\source\repos\Generics-Exercise\5-Generic-Count-Method-Strings\obj\Debug\net5.0\ref\5-Generic-Count-Method-Strings.dll

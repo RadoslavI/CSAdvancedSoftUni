@@ -1,0 +1,16 @@
+C:\Users\saske\source\repos\Generics-Exercise\3-Generic-Swap-Method-Strings\bin\Debug\net5.0\3-Generic-Swap-Method-Strings.exe
+C:\Users\saske\source\repos\Generics-Exercise\3-Generic-Swap-Method-Strings\bin\Debug\net5.0\3-Generic-Swap-Method-Strings.deps.json
+C:\Users\saske\source\repos\Generics-Exercise\3-Generic-Swap-Method-Strings\bin\Debug\net5.0\3-Generic-Swap-Method-Strings.runtimeconfig.json
+C:\Users\saske\source\repos\Generics-Exercise\3-Generic-Swap-Method-Strings\bin\Debug\net5.0\3-Generic-Swap-Method-Strings.runtimeconfig.dev.json
+C:\Users\saske\source\repos\Generics-Exercise\3-Generic-Swap-Method-Strings\bin\Debug\net5.0\3-Generic-Swap-Method-Strings.dll
+C:\Users\saske\source\repos\Generics-Exercise\3-Generic-Swap-Method-Strings\bin\Debug\net5.0\3-Generic-Swap-Method-Strings.pdb
+C:\Users\saske\source\repos\Generics-Exercise\3-Generic-Swap-Method-Strings\obj\Debug\net5.0\3-Generic-Swap-Method-Strings.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\Generics-Exercise\3-Generic-Swap-Method-Strings\obj\Debug\net5.0\3-Generic-Swap-Method-Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\Generics-Exercise\3-Generic-Swap-Method-Strings\obj\Debug\net5.0\3-Generic-Swap-Method-Strings.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\Generics-Exercise\3-Generic-Swap-Method-Strings\obj\Debug\net5.0\3-Generic-Swap-Method-Strings.AssemblyInfo.cs
+C:\Users\saske\source\repos\Generics-Exercise\3-Generic-Swap-Method-Strings\obj\Debug\net5.0\3-Generic-Swap-Method-Strings.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\Generics-Exercise\3-Generic-Swap-Method-Strings\obj\Debug\net5.0\3-Generic-Swap-Method-Strings.dll
+C:\Users\saske\source\repos\Generics-Exercise\3-Generic-Swap-Method-Strings\obj\Debug\net5.0\refint\3-Generic-Swap-Method-Strings.dll
+C:\Users\saske\source\repos\Generics-Exercise\3-Generic-Swap-Method-Strings\obj\Debug\net5.0\3-Generic-Swap-Method-Strings.pdb
+C:\Users\saske\source\repos\Generics-Exercise\3-Generic-Swap-Method-Strings\obj\Debug\net5.0\3-Generic-Swap-Method-Strings.genruntimeconfig.cache
+C:\Users\saske\source\repos\Generics-Exercise\3-Generic-Swap-Method-Strings\obj\Debug\net5.0\ref\3-Generic-Swap-Method-Strings.dll

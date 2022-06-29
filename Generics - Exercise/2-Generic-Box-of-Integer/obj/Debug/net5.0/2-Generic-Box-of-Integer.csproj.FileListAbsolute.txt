@@ -1,0 +1,16 @@
+C:\Users\saske\source\repos\Generics-Exercise\2-Generic-Box-of-Integer\bin\Debug\net5.0\2-Generic-Box-of-Integer.exe
+C:\Users\saske\source\repos\Generics-Exercise\2-Generic-Box-of-Integer\bin\Debug\net5.0\2-Generic-Box-of-Integer.deps.json
+C:\Users\saske\source\repos\Generics-Exercise\2-Generic-Box-of-Integer\bin\Debug\net5.0\2-Generic-Box-of-Integer.runtimeconfig.json
+C:\Users\saske\source\repos\Generics-Exercise\2-Generic-Box-of-Integer\bin\Debug\net5.0\2-Generic-Box-of-Integer.runtimeconfig.dev.json
+C:\Users\saske\source\repos\Generics-Exercise\2-Generic-Box-of-Integer\bin\Debug\net5.0\2-Generic-Box-of-Integer.dll
+C:\Users\saske\source\repos\Generics-Exercise\2-Generic-Box-of-Integer\bin\Debug\net5.0\2-Generic-Box-of-Integer.pdb
+C:\Users\saske\source\repos\Generics-Exercise\2-Generic-Box-of-Integer\obj\Debug\net5.0\2-Generic-Box-of-Integer.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\Generics-Exercise\2-Generic-Box-of-Integer\obj\Debug\net5.0\2-Generic-Box-of-Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\Generics-Exercise\2-Generic-Box-of-Integer\obj\Debug\net5.0\2-Generic-Box-of-Integer.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\Generics-Exercise\2-Generic-Box-of-Integer\obj\Debug\net5.0\2-Generic-Box-of-Integer.AssemblyInfo.cs
+C:\Users\saske\source\repos\Generics-Exercise\2-Generic-Box-of-Integer\obj\Debug\net5.0\2-Generic-Box-of-Integer.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\Generics-Exercise\2-Generic-Box-of-Integer\obj\Debug\net5.0\2-Generic-Box-of-Integer.dll
+C:\Users\saske\source\repos\Generics-Exercise\2-Generic-Box-of-Integer\obj\Debug\net5.0\refint\2-Generic-Box-of-Integer.dll
+C:\Users\saske\source\repos\Generics-Exercise\2-Generic-Box-of-Integer\obj\Debug\net5.0\2-Generic-Box-of-Integer.pdb
+C:\Users\saske\source\repos\Generics-Exercise\2-Generic-Box-of-Integer\obj\Debug\net5.0\2-Generic-Box-of-Integer.genruntimeconfig.cache
+C:\Users\saske\source\repos\Generics-Exercise\2-Generic-Box-of-Integer\obj\Debug\net5.0\ref\2-Generic-Box-of-Integer.dll

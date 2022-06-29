@@ -1,0 +1,14 @@
+C:\Users\saske\source\repos\Generics-Exercise\1. Generic Box of String\bin\Debug\netcoreapp3.1\1. Generic Box of String.exe
+C:\Users\saske\source\repos\Generics-Exercise\1. Generic Box of String\bin\Debug\netcoreapp3.1\1. Generic Box of String.deps.json
+C:\Users\saske\source\repos\Generics-Exercise\1. Generic Box of String\bin\Debug\netcoreapp3.1\1. Generic Box of String.runtimeconfig.json
+C:\Users\saske\source\repos\Generics-Exercise\1. Generic Box of String\bin\Debug\netcoreapp3.1\1. Generic Box of String.runtimeconfig.dev.json
+C:\Users\saske\source\repos\Generics-Exercise\1. Generic Box of String\bin\Debug\netcoreapp3.1\1. Generic Box of String.dll
+C:\Users\saske\source\repos\Generics-Exercise\1. Generic Box of String\bin\Debug\netcoreapp3.1\1. Generic Box of String.pdb
+C:\Users\saske\source\repos\Generics-Exercise\1. Generic Box of String\obj\Debug\netcoreapp3.1\1. Generic Box of String.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\Generics-Exercise\1. Generic Box of String\obj\Debug\netcoreapp3.1\1. Generic Box of String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\Generics-Exercise\1. Generic Box of String\obj\Debug\netcoreapp3.1\1. Generic Box of String.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\Generics-Exercise\1. Generic Box of String\obj\Debug\netcoreapp3.1\1. Generic Box of String.AssemblyInfo.cs
+C:\Users\saske\source\repos\Generics-Exercise\1. Generic Box of String\obj\Debug\netcoreapp3.1\1. Generic Box of String.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\Generics-Exercise\1. Generic Box of String\obj\Debug\netcoreapp3.1\1. Generic Box of String.dll
+C:\Users\saske\source\repos\Generics-Exercise\1. Generic Box of String\obj\Debug\netcoreapp3.1\1. Generic Box of String.pdb
+C:\Users\saske\source\repos\Generics-Exercise\1. Generic Box of String\obj\Debug\netcoreapp3.1\1. Generic Box of String.genruntimeconfig.cache

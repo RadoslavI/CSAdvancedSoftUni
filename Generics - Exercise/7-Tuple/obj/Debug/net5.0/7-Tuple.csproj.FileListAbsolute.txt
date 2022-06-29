@@ -1,0 +1,16 @@
+C:\Users\saske\source\repos\Generics-Exercise\7-Tuple\bin\Debug\net5.0\7-Tuple.exe
+C:\Users\saske\source\repos\Generics-Exercise\7-Tuple\bin\Debug\net5.0\7-Tuple.deps.json
+C:\Users\saske\source\repos\Generics-Exercise\7-Tuple\bin\Debug\net5.0\7-Tuple.runtimeconfig.json
+C:\Users\saske\source\repos\Generics-Exercise\7-Tuple\bin\Debug\net5.0\7-Tuple.runtimeconfig.dev.json
+C:\Users\saske\source\repos\Generics-Exercise\7-Tuple\bin\Debug\net5.0\7-Tuple.dll
+C:\Users\saske\source\repos\Generics-Exercise\7-Tuple\bin\Debug\net5.0\7-Tuple.pdb
+C:\Users\saske\source\repos\Generics-Exercise\7-Tuple\obj\Debug\net5.0\7-Tuple.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\Generics-Exercise\7-Tuple\obj\Debug\net5.0\7-Tuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\Generics-Exercise\7-Tuple\obj\Debug\net5.0\7-Tuple.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\Generics-Exercise\7-Tuple\obj\Debug\net5.0\7-Tuple.AssemblyInfo.cs
+C:\Users\saske\source\repos\Generics-Exercise\7-Tuple\obj\Debug\net5.0\7-Tuple.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\Generics-Exercise\7-Tuple\obj\Debug\net5.0\7-Tuple.dll
+C:\Users\saske\source\repos\Generics-Exercise\7-Tuple\obj\Debug\net5.0\refint\7-Tuple.dll
+C:\Users\saske\source\repos\Generics-Exercise\7-Tuple\obj\Debug\net5.0\7-Tuple.pdb
+C:\Users\saske\source\repos\Generics-Exercise\7-Tuple\obj\Debug\net5.0\7-Tuple.genruntimeconfig.cache
+C:\Users\saske\source\repos\Generics-Exercise\7-Tuple\obj\Debug\net5.0\ref\7-Tuple.dll
