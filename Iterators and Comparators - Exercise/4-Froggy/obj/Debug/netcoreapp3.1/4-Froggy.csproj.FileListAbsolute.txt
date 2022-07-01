@@ -1,0 +1,14 @@
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\4-Froggy\bin\Debug\netcoreapp3.1\4-Froggy.exe
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\4-Froggy\bin\Debug\netcoreapp3.1\4-Froggy.deps.json
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\4-Froggy\bin\Debug\netcoreapp3.1\4-Froggy.runtimeconfig.json
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\4-Froggy\bin\Debug\netcoreapp3.1\4-Froggy.runtimeconfig.dev.json
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\4-Froggy\bin\Debug\netcoreapp3.1\4-Froggy.dll
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\4-Froggy\bin\Debug\netcoreapp3.1\4-Froggy.pdb
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\4-Froggy\obj\Debug\netcoreapp3.1\4-Froggy.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\4-Froggy\obj\Debug\netcoreapp3.1\4-Froggy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\4-Froggy\obj\Debug\netcoreapp3.1\4-Froggy.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\4-Froggy\obj\Debug\netcoreapp3.1\4-Froggy.AssemblyInfo.cs
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\4-Froggy\obj\Debug\netcoreapp3.1\4-Froggy.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\4-Froggy\obj\Debug\netcoreapp3.1\4-Froggy.dll
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\4-Froggy\obj\Debug\netcoreapp3.1\4-Froggy.pdb
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\4-Froggy\obj\Debug\netcoreapp3.1\4-Froggy.genruntimeconfig.cache

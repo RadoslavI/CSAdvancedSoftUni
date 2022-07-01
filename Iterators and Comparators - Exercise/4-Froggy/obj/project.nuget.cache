@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IcpoG7nSDLyqiIgCuDvogekp/P4jyum16DwODYGs42/xdGO9pWNALWeAPTODlog/+BPZ/hcIe7tTFxQ/cW6ApQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saske\\source\\repos\\Iterators-and-Comparators-Exercise\\4-Froggy\\4-Froggy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saske\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512",
+    "C:\\Users\\saske\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\saske\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\saske\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
