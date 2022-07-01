@@ -1,0 +1,16 @@
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\3-Stack\bin\Debug\net5.0\3-Stack.exe
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\3-Stack\bin\Debug\net5.0\3-Stack.deps.json
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\3-Stack\bin\Debug\net5.0\3-Stack.runtimeconfig.json
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\3-Stack\bin\Debug\net5.0\3-Stack.runtimeconfig.dev.json
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\3-Stack\bin\Debug\net5.0\3-Stack.dll
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\3-Stack\bin\Debug\net5.0\3-Stack.pdb
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\3-Stack\obj\Debug\net5.0\3-Stack.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\3-Stack\obj\Debug\net5.0\3-Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\3-Stack\obj\Debug\net5.0\3-Stack.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\3-Stack\obj\Debug\net5.0\3-Stack.AssemblyInfo.cs
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\3-Stack\obj\Debug\net5.0\3-Stack.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\3-Stack\obj\Debug\net5.0\3-Stack.dll
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\3-Stack\obj\Debug\net5.0\refint\3-Stack.dll
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\3-Stack\obj\Debug\net5.0\3-Stack.pdb
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\3-Stack\obj\Debug\net5.0\3-Stack.genruntimeconfig.cache
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\3-Stack\obj\Debug\net5.0\ref\3-Stack.dll
