@@ -1,0 +1,16 @@
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\5-Comparing-Objects\bin\Debug\net5.0\5-Comparing-Objects.exe
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\5-Comparing-Objects\bin\Debug\net5.0\5-Comparing-Objects.deps.json
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\5-Comparing-Objects\bin\Debug\net5.0\5-Comparing-Objects.runtimeconfig.json
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\5-Comparing-Objects\bin\Debug\net5.0\5-Comparing-Objects.runtimeconfig.dev.json
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\5-Comparing-Objects\bin\Debug\net5.0\5-Comparing-Objects.dll
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\5-Comparing-Objects\bin\Debug\net5.0\5-Comparing-Objects.pdb
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\5-Comparing-Objects\obj\Debug\net5.0\5-Comparing-Objects.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\5-Comparing-Objects\obj\Debug\net5.0\5-Comparing-Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\5-Comparing-Objects\obj\Debug\net5.0\5-Comparing-Objects.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\5-Comparing-Objects\obj\Debug\net5.0\5-Comparing-Objects.AssemblyInfo.cs
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\5-Comparing-Objects\obj\Debug\net5.0\5-Comparing-Objects.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\5-Comparing-Objects\obj\Debug\net5.0\5-Comparing-Objects.dll
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\5-Comparing-Objects\obj\Debug\net5.0\refint\5-Comparing-Objects.dll
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\5-Comparing-Objects\obj\Debug\net5.0\5-Comparing-Objects.pdb
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\5-Comparing-Objects\obj\Debug\net5.0\5-Comparing-Objects.genruntimeconfig.cache
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\5-Comparing-Objects\obj\Debug\net5.0\ref\5-Comparing-Objects.dll
