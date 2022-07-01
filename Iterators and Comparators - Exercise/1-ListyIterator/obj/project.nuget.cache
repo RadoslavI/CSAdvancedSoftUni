@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MAgv+AVX6K3kVLMAN61DowQWVV91LLFhuplNSpMon8SY08XxCkYSrTdt20FzByh8F85BCYkuWE17ErWIK/zfOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saske\\source\\repos\\Iterators-and-Comparators-Exercise\\1-ListyIterator\\1-ListyIterator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saske\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512",
+    "C:\\Users\\saske\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\saske\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\saske\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

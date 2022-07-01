@@ -1,0 +1,14 @@
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\1-ListyIterator\bin\Debug\netcoreapp3.1\1-ListyIterator.exe
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\1-ListyIterator\bin\Debug\netcoreapp3.1\1-ListyIterator.deps.json
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\1-ListyIterator\bin\Debug\netcoreapp3.1\1-ListyIterator.runtimeconfig.json
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\1-ListyIterator\bin\Debug\netcoreapp3.1\1-ListyIterator.runtimeconfig.dev.json
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\1-ListyIterator\bin\Debug\netcoreapp3.1\1-ListyIterator.dll
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\1-ListyIterator\bin\Debug\netcoreapp3.1\1-ListyIterator.pdb
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\1-ListyIterator\obj\Debug\netcoreapp3.1\1-ListyIterator.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\1-ListyIterator\obj\Debug\netcoreapp3.1\1-ListyIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\1-ListyIterator\obj\Debug\netcoreapp3.1\1-ListyIterator.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\1-ListyIterator\obj\Debug\netcoreapp3.1\1-ListyIterator.AssemblyInfo.cs
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\1-ListyIterator\obj\Debug\netcoreapp3.1\1-ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\1-ListyIterator\obj\Debug\netcoreapp3.1\1-ListyIterator.dll
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\1-ListyIterator\obj\Debug\netcoreapp3.1\1-ListyIterator.pdb
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\1-ListyIterator\obj\Debug\netcoreapp3.1\1-ListyIterator.genruntimeconfig.cache
