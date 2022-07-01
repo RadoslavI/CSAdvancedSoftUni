@@ -1,0 +1,16 @@
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\6-EqualityLogic\bin\Debug\net5.0\6-EqualityLogic.exe
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\6-EqualityLogic\bin\Debug\net5.0\6-EqualityLogic.deps.json
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\6-EqualityLogic\bin\Debug\net5.0\6-EqualityLogic.runtimeconfig.json
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\6-EqualityLogic\bin\Debug\net5.0\6-EqualityLogic.runtimeconfig.dev.json
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\6-EqualityLogic\bin\Debug\net5.0\6-EqualityLogic.dll
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\6-EqualityLogic\bin\Debug\net5.0\6-EqualityLogic.pdb
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\6-EqualityLogic\obj\Debug\net5.0\6-EqualityLogic.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\6-EqualityLogic\obj\Debug\net5.0\6-EqualityLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\6-EqualityLogic\obj\Debug\net5.0\6-EqualityLogic.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\6-EqualityLogic\obj\Debug\net5.0\6-EqualityLogic.AssemblyInfo.cs
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\6-EqualityLogic\obj\Debug\net5.0\6-EqualityLogic.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\6-EqualityLogic\obj\Debug\net5.0\6-EqualityLogic.dll
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\6-EqualityLogic\obj\Debug\net5.0\refint\6-EqualityLogic.dll
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\6-EqualityLogic\obj\Debug\net5.0\6-EqualityLogic.pdb
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\6-EqualityLogic\obj\Debug\net5.0\6-EqualityLogic.genruntimeconfig.cache
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\6-EqualityLogic\obj\Debug\net5.0\ref\6-EqualityLogic.dll
