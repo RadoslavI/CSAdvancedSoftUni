@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Eur1zGf1Cx9pQ32X0vVWnm5M8Gr1sc0KvankAyClXXC1U2Yrm4pTWQ5pO4GHeJpK8jQcexEUB4pe2Jlwi1PZRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saske\\source\\repos\\Iterators-and-Comparators-Exercise\\2-Collection\\2-Collection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saske\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512",
+    "C:\\Users\\saske\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\saske\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\saske\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

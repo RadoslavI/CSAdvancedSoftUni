@@ -1,0 +1,14 @@
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\2-Collection\bin\Debug\netcoreapp3.1\2-Collection.exe
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\2-Collection\bin\Debug\netcoreapp3.1\2-Collection.deps.json
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\2-Collection\bin\Debug\netcoreapp3.1\2-Collection.runtimeconfig.json
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\2-Collection\bin\Debug\netcoreapp3.1\2-Collection.runtimeconfig.dev.json
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\2-Collection\bin\Debug\netcoreapp3.1\2-Collection.dll
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\2-Collection\bin\Debug\netcoreapp3.1\2-Collection.pdb
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\2-Collection\obj\Debug\netcoreapp3.1\2-Collection.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\2-Collection\obj\Debug\netcoreapp3.1\2-Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\2-Collection\obj\Debug\netcoreapp3.1\2-Collection.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\2-Collection\obj\Debug\netcoreapp3.1\2-Collection.AssemblyInfo.cs
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\2-Collection\obj\Debug\netcoreapp3.1\2-Collection.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\2-Collection\obj\Debug\netcoreapp3.1\2-Collection.dll
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\2-Collection\obj\Debug\netcoreapp3.1\2-Collection.pdb
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\2-Collection\obj\Debug\netcoreapp3.1\2-Collection.genruntimeconfig.cache
