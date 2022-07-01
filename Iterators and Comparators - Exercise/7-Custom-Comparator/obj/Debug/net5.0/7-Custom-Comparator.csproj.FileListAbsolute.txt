@@ -1,0 +1,16 @@
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\7-Custom-Comparator\bin\Debug\net5.0\7-Custom-Comparator.exe
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\7-Custom-Comparator\bin\Debug\net5.0\7-Custom-Comparator.deps.json
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\7-Custom-Comparator\bin\Debug\net5.0\7-Custom-Comparator.runtimeconfig.json
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\7-Custom-Comparator\bin\Debug\net5.0\7-Custom-Comparator.runtimeconfig.dev.json
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\7-Custom-Comparator\bin\Debug\net5.0\7-Custom-Comparator.dll
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\7-Custom-Comparator\bin\Debug\net5.0\7-Custom-Comparator.pdb
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\7-Custom-Comparator\obj\Debug\net5.0\7-Custom-Comparator.csproj.AssemblyReference.cache
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\7-Custom-Comparator\obj\Debug\net5.0\7-Custom-Comparator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\7-Custom-Comparator\obj\Debug\net5.0\7-Custom-Comparator.AssemblyInfoInputs.cache
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\7-Custom-Comparator\obj\Debug\net5.0\7-Custom-Comparator.AssemblyInfo.cs
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\7-Custom-Comparator\obj\Debug\net5.0\7-Custom-Comparator.csproj.CoreCompileInputs.cache
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\7-Custom-Comparator\obj\Debug\net5.0\7-Custom-Comparator.dll
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\7-Custom-Comparator\obj\Debug\net5.0\refint\7-Custom-Comparator.dll
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\7-Custom-Comparator\obj\Debug\net5.0\7-Custom-Comparator.pdb
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\7-Custom-Comparator\obj\Debug\net5.0\7-Custom-Comparator.genruntimeconfig.cache
+C:\Users\saske\source\repos\Iterators-and-Comparators-Exercise\7-Custom-Comparator\obj\Debug\net5.0\ref\7-Custom-Comparator.dll
