@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "02-WallDestroyer/1.0.0": {
+        "runtime": {
+          "02-WallDestroyer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02-WallDestroyer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

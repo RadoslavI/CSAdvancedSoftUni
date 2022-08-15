@@ -1,0 +1,14 @@
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Exam - June 2022\ExamJune22\03. Renovators_Skeleton\bin\Debug\netcoreapp3.1\Renovators.exe
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Exam - June 2022\ExamJune22\03. Renovators_Skeleton\bin\Debug\netcoreapp3.1\Renovators.deps.json
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Exam - June 2022\ExamJune22\03. Renovators_Skeleton\bin\Debug\netcoreapp3.1\Renovators.runtimeconfig.json
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Exam - June 2022\ExamJune22\03. Renovators_Skeleton\bin\Debug\netcoreapp3.1\Renovators.runtimeconfig.dev.json
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Exam - June 2022\ExamJune22\03. Renovators_Skeleton\bin\Debug\netcoreapp3.1\Renovators.dll
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Exam - June 2022\ExamJune22\03. Renovators_Skeleton\bin\Debug\netcoreapp3.1\Renovators.pdb
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Exam - June 2022\ExamJune22\03. Renovators_Skeleton\obj\Debug\netcoreapp3.1\Renovators.csproj.AssemblyReference.cache
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Exam - June 2022\ExamJune22\03. Renovators_Skeleton\obj\Debug\netcoreapp3.1\Renovators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Exam - June 2022\ExamJune22\03. Renovators_Skeleton\obj\Debug\netcoreapp3.1\Renovators.AssemblyInfoInputs.cache
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Exam - June 2022\ExamJune22\03. Renovators_Skeleton\obj\Debug\netcoreapp3.1\Renovators.AssemblyInfo.cs
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Exam - June 2022\ExamJune22\03. Renovators_Skeleton\obj\Debug\netcoreapp3.1\Renovators.csproj.CoreCompileInputs.cache
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Exam - June 2022\ExamJune22\03. Renovators_Skeleton\obj\Debug\netcoreapp3.1\Renovators.dll
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Exam - June 2022\ExamJune22\03. Renovators_Skeleton\obj\Debug\netcoreapp3.1\Renovators.pdb
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Exam - June 2022\ExamJune22\03. Renovators_Skeleton\obj\Debug\netcoreapp3.1\Renovators.genruntimeconfig.cache
