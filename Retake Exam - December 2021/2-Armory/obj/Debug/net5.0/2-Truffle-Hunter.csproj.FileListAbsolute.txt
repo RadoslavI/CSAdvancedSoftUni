@@ -1,0 +1,16 @@
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake Exam - December 2021\2-Armory\bin\Debug\net5.0\2-Truffle-Hunter.exe
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake Exam - December 2021\2-Armory\bin\Debug\net5.0\2-Truffle-Hunter.deps.json
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake Exam - December 2021\2-Armory\bin\Debug\net5.0\2-Truffle-Hunter.runtimeconfig.json
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake Exam - December 2021\2-Armory\bin\Debug\net5.0\2-Truffle-Hunter.runtimeconfig.dev.json
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake Exam - December 2021\2-Armory\bin\Debug\net5.0\2-Truffle-Hunter.dll
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake Exam - December 2021\2-Armory\bin\Debug\net5.0\2-Truffle-Hunter.pdb
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake Exam - December 2021\2-Armory\obj\Debug\net5.0\2-Truffle-Hunter.csproj.AssemblyReference.cache
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake Exam - December 2021\2-Armory\obj\Debug\net5.0\2-Truffle-Hunter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake Exam - December 2021\2-Armory\obj\Debug\net5.0\2-Truffle-Hunter.AssemblyInfoInputs.cache
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake Exam - December 2021\2-Armory\obj\Debug\net5.0\2-Truffle-Hunter.AssemblyInfo.cs
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake Exam - December 2021\2-Armory\obj\Debug\net5.0\2-Truffle-Hunter.csproj.CoreCompileInputs.cache
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake Exam - December 2021\2-Armory\obj\Debug\net5.0\2-Truffle-Hunter.dll
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake Exam - December 2021\2-Armory\obj\Debug\net5.0\refint\2-Truffle-Hunter.dll
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake Exam - December 2021\2-Armory\obj\Debug\net5.0\2-Truffle-Hunter.pdb
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake Exam - December 2021\2-Armory\obj\Debug\net5.0\2-Truffle-Hunter.genruntimeconfig.cache
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake Exam - December 2021\2-Armory\obj\Debug\net5.0\ref\2-Truffle-Hunter.dll
