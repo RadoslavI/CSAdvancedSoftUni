@@ -1,0 +1,16 @@
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake-Exam-August-2022\Problem-1\bin\Debug\net5.0\Problem-1.exe
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake-Exam-August-2022\Problem-1\bin\Debug\net5.0\Problem-1.deps.json
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake-Exam-August-2022\Problem-1\bin\Debug\net5.0\Problem-1.runtimeconfig.json
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake-Exam-August-2022\Problem-1\bin\Debug\net5.0\Problem-1.runtimeconfig.dev.json
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake-Exam-August-2022\Problem-1\bin\Debug\net5.0\Problem-1.dll
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake-Exam-August-2022\Problem-1\bin\Debug\net5.0\Problem-1.pdb
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake-Exam-August-2022\Problem-1\obj\Debug\net5.0\Problem-1.csproj.AssemblyReference.cache
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake-Exam-August-2022\Problem-1\obj\Debug\net5.0\Problem-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake-Exam-August-2022\Problem-1\obj\Debug\net5.0\Problem-1.AssemblyInfoInputs.cache
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake-Exam-August-2022\Problem-1\obj\Debug\net5.0\Problem-1.AssemblyInfo.cs
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake-Exam-August-2022\Problem-1\obj\Debug\net5.0\Problem-1.csproj.CoreCompileInputs.cache
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake-Exam-August-2022\Problem-1\obj\Debug\net5.0\Problem-1.dll
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake-Exam-August-2022\Problem-1\obj\Debug\net5.0\refint\Problem-1.dll
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake-Exam-August-2022\Problem-1\obj\Debug\net5.0\Problem-1.pdb
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake-Exam-August-2022\Problem-1\obj\Debug\net5.0\Problem-1.genruntimeconfig.cache
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake-Exam-August-2022\Problem-1\obj\Debug\net5.0\ref\Problem-1.dll

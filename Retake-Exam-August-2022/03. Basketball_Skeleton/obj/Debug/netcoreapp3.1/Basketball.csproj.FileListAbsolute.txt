@@ -1,0 +1,14 @@
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake-Exam-August-2022\03. Basketball_Skeleton\obj\Debug\netcoreapp3.1\Basketball.csproj.AssemblyReference.cache
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake-Exam-August-2022\03. Basketball_Skeleton\obj\Debug\netcoreapp3.1\Basketball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake-Exam-August-2022\03. Basketball_Skeleton\obj\Debug\netcoreapp3.1\Basketball.AssemblyInfoInputs.cache
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake-Exam-August-2022\03. Basketball_Skeleton\obj\Debug\netcoreapp3.1\Basketball.AssemblyInfo.cs
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake-Exam-August-2022\03. Basketball_Skeleton\obj\Debug\netcoreapp3.1\Basketball.csproj.CoreCompileInputs.cache
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake-Exam-August-2022\03. Basketball_Skeleton\bin\Debug\netcoreapp3.1\Basketball.exe
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake-Exam-August-2022\03. Basketball_Skeleton\bin\Debug\netcoreapp3.1\Basketball.deps.json
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake-Exam-August-2022\03. Basketball_Skeleton\bin\Debug\netcoreapp3.1\Basketball.runtimeconfig.json
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake-Exam-August-2022\03. Basketball_Skeleton\bin\Debug\netcoreapp3.1\Basketball.runtimeconfig.dev.json
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake-Exam-August-2022\03. Basketball_Skeleton\bin\Debug\netcoreapp3.1\Basketball.dll
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake-Exam-August-2022\03. Basketball_Skeleton\bin\Debug\netcoreapp3.1\Basketball.pdb
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake-Exam-August-2022\03. Basketball_Skeleton\obj\Debug\netcoreapp3.1\Basketball.dll
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake-Exam-August-2022\03. Basketball_Skeleton\obj\Debug\netcoreapp3.1\Basketball.pdb
+C:\Users\saske\Documents\GitHub\CSAdvancedSoftUni\Retake-Exam-August-2022\03. Basketball_Skeleton\obj\Debug\netcoreapp3.1\Basketball.genruntimeconfig.cache
